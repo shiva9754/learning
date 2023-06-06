@@ -1,7 +1,7 @@
 # This is Readme file for cybornlearning repo
 List of participants
 1. Sharon
-2.
+2. Kajal Vishandas Khatri
 3.
 4.
 5.
