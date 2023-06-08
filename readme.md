@@ -8,8 +8,8 @@ Participants:
 3. Sharon
 4. Lovepreet Singh
 5. Pavan
-6. Sharon
-7. Kajal Vishandas Khatri
+6. Kajal Vishandas Khatri
+7. 
 8.
 9.
 10.
