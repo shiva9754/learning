@@ -1,7 +1,6 @@
-# This is Readme file for cybornlearning repo
 # Welcome to Cyborn Learning
 
-Participants:
+## Participants:
 
 1. Prabhu Shankar M.C
 2. Poorv Kumar
@@ -9,7 +8,7 @@ Participants:
 4. Lovepreet Singh
 5. Pavan
 6. Kajal Vishandas Khatri
-7. 
+7. Swaminarayan
 8.
 9.
 10.
