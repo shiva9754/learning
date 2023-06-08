@@ -1,14 +1,16 @@
-# This is Readme file for cybornlearning repo
-List of participants
-1. Sharon
-2. Tanmay
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+# Welcome to Cyborn Learning
+
+## Participants:
+
+1. Prabhu Shankar M.C
+2. Poorv Kumar
+3. Sharon
+4. Lovepreet Singh
+5. Pavan
+6. Kajal Vishandas Khatri
+7. Swaminarayan
+8. Pavan
+9. Tanmay
 10.
 11.
 12.
@@ -16,3 +18,4 @@ List of participants
 14.
 15.
 16.
+17.
